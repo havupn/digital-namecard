@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Vu;Pham;;;
+FN: Pham Nguyen Ha Vu 
+ORG:VNU University of Science;
+TITLE:Lecuture\n Department of Sedimentary and Marine Geology, Faculty of Geology
+EMAIL;type=INTERNET;type=WORK;type=pref: havupn@gmail.com
+TEL;type=WORK;type=VOICE:+84 942 587 038
+item1.ADR;type=WORK;type=pref:;;334 Nguyen Trai str\nThanh Xuan\, Hanoi;;;;Vietnam
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:hus.vnu.edu.vn
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
